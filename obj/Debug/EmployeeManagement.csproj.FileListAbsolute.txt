@@ -1,0 +1,13 @@
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.Employee.resources
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.Home.resources
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.Login.resources
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.Splash.resources
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+G:\Softwares\Visual Studio\Projects\EmployeeManagement\obj\Debug\EmployeeManagement.pdb

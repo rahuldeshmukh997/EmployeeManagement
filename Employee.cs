@@ -80,5 +80,29 @@ namespace EmployeeManagement
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if(EmpIdTb.Text == "")
+            {
+                MessageBox.Show("Enter The Employee Id");
+            }
+            else
+            {
+                try
+                {
+                    Con.Open();
+                    string query = "delete from EmployeeTbl where Empid=('" + EmpIdTb.Text + "');";
+                    SqlCommand cmd = new SqlCommand(query, Con);
+                    cmd.ExecuteNonQuery();
+                    MessageBox.Show("Employee Deleted Succesfully");
+                    Con.Close();
+                    populate();
+                }catch(Exception Ex)
+                {
+                    MessageBox.Show(Ex.Message);
+                }
+            }
+        }
     }
 }

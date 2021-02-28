@@ -78,7 +78,13 @@ namespace EmployeeManagement
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            EmpIdTb.Text = EmpDGV.SelectedRows[0].Cells[0].Value.ToString();
+            EmpNameTb.Text = EmpDGV.SelectedRows[0].Cells[1].Value.ToString();
+            EmpAddTb.Text = EmpDGV.SelectedRows[0].Cells[2].Value.ToString();
+            EmpGenCb.SelectedItem = EmpDGV.SelectedRows[0].Cells[3].Value.ToString();
+            EmpPosCb.SelectedItem = EmpDGV.SelectedRows[0].Cells[5].Value.ToString();
+            EmpEduCb.Text = EmpDGV.SelectedRows[0].Cells[6].Value.ToString();
+            EmpPhoneTb.Text = EmpDGV.SelectedRows[0].Cells[7].Value.ToString();
         }
 
         private void button3_Click(object sender, EventArgs e)
